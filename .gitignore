@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # logs and symlinks
 rholog.txt
 rholog-*
@@ -5,3 +6,14 @@ sim-*
 
 # build output
 bin/
+=======
+rholog-*
+sim-*
+bin/libs
+bin/RhoBundle
+bin/tmp
+bin/target
+bin/*.ap_
+*.o
+*.jar
+>>>>>>> dc3fb57557d90d28412e4604c7f64c8c0a4f09dc
